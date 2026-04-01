@@ -1,5 +1,5 @@
 // Link Gist Raw milik Suhana
-const U = "https://gist.githubusercontent.com/dimazez26-Ds/eb07017e06562d21733ea7ef5e02c59f/raw/661257dc604b20da291df75e4fd5a7f8efb31957/momota.user.js";
+const U = "https://gist.githubusercontent.com/dimazez26-Ds/eb07017e06562d21733ea7ef5e02c59f/raw/732f58aa2f6d80c865dafb7ac2dd592cd3324506/momota.user.js";
 
 // Ganti Key penyimpanan (K) agar QuanX mendownload ulang file yang baru
 const K = "ojeng_final_work"; 
